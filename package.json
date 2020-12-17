@@ -1,10 +1,10 @@
 {
-  "name": "ng-intercom-angular-10",
-  "version": "1.0.0",
+  "name": "ng-intercom",
+  "version": "8.0.2",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CaptivateAudio/ng-intercom.git"
+    "url": "git+https://github.com/CaliStyle/ng-intercom.git"
   },
   "keywords": [
     "Intercom",
@@ -20,7 +20,7 @@
     "url": "https://github.com/CaliStyle/ng-intercom/issues"
   },
   "homepage": "https://github.com/CaliStyle/ng-intercom#readme",
-  "main": "bundles/ng-intercom-angular-10.umd.js",
+  "main": "bundles/ng-intercom.umd.js",
   "peerDependencies": {},
   "devDependencies": {
     "@angular-devkit/build-angular": "^0.13.0",
@@ -98,13 +98,13 @@
   "dependencies": {
     "tslib": "^1.9.0"
   },
-  "module": "fesm5/ng-intercom-angular-10.js",
-  "es2015": "fesm2015/ng-intercom-angular-10.js",
-  "esm5": "esm5/ng-intercom-angular-10.js",
-  "esm2015": "esm2015/ng-intercom-angular-10.js",
-  "fesm5": "fesm5/ng-intercom-angular-10.js",
-  "fesm2015": "fesm2015/ng-intercom-angular-10.js",
-  "typings": "ng-intercom-angular-10.d.ts",
-  "metadata": "ng-intercom-angular-10.metadata.json",
+  "module": "fesm5/ng-intercom.js",
+  "es2015": "fesm2015/ng-intercom.js",
+  "esm5": "esm5/ng-intercom.js",
+  "esm2015": "esm2015/ng-intercom.js",
+  "fesm5": "fesm5/ng-intercom.js",
+  "fesm2015": "fesm2015/ng-intercom.js",
+  "typings": "ng-intercom.d.ts",
+  "metadata": "ng-intercom.metadata.json",
   "sideEffects": false
 }
